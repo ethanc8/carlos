@@ -14,7 +14,10 @@ More detailed history is available in [google/fonts#1441](https://github.com/goo
 
 Carlito was built by Łukasz Dziedzic using a large amount of proprietary tools which transformed the Lato TTFs such that their metrics would match Calibri. These were copied into this repository, renamed Carlos, and the double-storey italic *g* was replaced by a custom single-storey *g* to look more similar to Calibri. The double-storey italic *g* was moved to the stylistic alternate `g.salt`.
 
-The Light weights of Carlos were derived by manually modifying the Lato Light TTFs in FontForge.
+## TODO
+
+* [ ] Verify metric compatibility
+* [ ] Develop a Carlos-Light
 
 ## Contributing
 
