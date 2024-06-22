@@ -4,14 +4,14 @@ FullName: Carlos Italic
 FamilyName: Carlos
 Weight: Book
 Copyright: Copyright (c) 2013 The Carlito Project Authors (https://github.com/googlefonts/carlito), with Reserved Font Name "Carlito".\nCopyright (c) 2010-2015, Lukasz Dziedzic (dziedzic@typoland.com), with Reserved Font Name "Lato".\nCopyright (c) 2024 Ethan C (https://github.com/ethanc8), with no Reserved Font Names.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.
-Version: 1.104
+Version: 1.105
 ItalicAngle: -7
 UnderlinePosition: -200
 UnderlineWidth: 194
 Ascent: 1536
 Descent: 512
 InvalidEm: 0
-sfntRevision: 0x00011aa0
+sfntRevision: 0x00011ae1
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1247004774
-ModificationTime: 1719072219
+ModificationTime: 1719072639
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
